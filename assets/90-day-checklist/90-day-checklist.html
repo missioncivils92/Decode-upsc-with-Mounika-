@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>First 90 Days Checklist</title>
+<style>
+  @page { size: A4; margin: 0; }
+  :root {
+    --ink: #1d2433;
+    --muted: #5b6475;
+    --brand: #b4462a;
+    --brand-soft: #fbeee9;
+    --line: #dfe3ea;
+    --panel: #f6f7f9;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: #fff; color: var(--ink);
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 9pt; line-height: 1.3; }
+  .page { width: 210mm; height: 297mm; padding: 10mm 12mm 8mm; display: flex; flex-direction: column; gap: 3.4mm; }
+  header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2.5px solid var(--brand); padding-bottom: 3mm; }
+  h1 { margin: 0; font-size: 21pt; letter-spacing: -0.3px; }
+  h1 span { color: var(--brand); }
+  .sub { color: var(--muted); font-size: 9.5pt; margin-top: 1mm; }
+  .brand { white-space: nowrap; text-align: right; font-weight: 700; color: var(--brand); font-size: 10.5pt; }
+  .brand small { display: block; color: var(--muted); font-weight: 400; font-size: 8.5pt; }
+  h2 { margin: 0 0 1.6mm; font-size: 10.5pt; text-transform: uppercase; letter-spacing: 0.6px; color: var(--brand); }
+  .dates { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 3mm; }
+  .field { border: 1.5px solid var(--line); border-radius: 2mm; padding: 1.6mm 2.5mm; font-size: 8.4pt; color: var(--muted); height: 11mm; }
+  .field b { color: var(--ink); display: block; font-size: 8.8pt; }
+  .rules { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3mm; }
+  .rule { border-left: 3px solid var(--brand); padding: 0.5mm 0 0.5mm 3mm; }
+  .rule b { display: block; }
+  .phases { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3mm; }
+  .phase { background: var(--panel); border-radius: 3mm; padding: 3mm 3.2mm; display: flex; flex-direction: column; }
+  .phase .days { font-size: 8pt; font-weight: 700; color: #fff; background: var(--ink); border-radius: 10px; padding: 0.3mm 2.2mm; align-self: flex-start; margin-bottom: 1.4mm; }
+  .phase h3 { margin: 0 0 0.6mm; font-size: 11pt; }
+  .goal { color: var(--muted); font-size: 8.4pt; margin-bottom: 1.6mm; }
+  ul.check { list-style: none; margin: 0; padding: 0; }
+  ul.check li { position: relative; padding-left: 5.2mm; margin: 1.1mm 0; }
+  ul.check li::before { content: ""; position: absolute; left: 0; top: 0.3mm; width: 3.2mm; height: 3.2mm; border: 1.4px solid var(--ink); border-radius: 0.8mm; background: #fff; }
+  .milestone { margin-top: auto; background: var(--brand-soft); border-radius: 2mm; padding: 1.8mm 2.4mm; font-size: 8.4pt; }
+  .milestone b { color: var(--brand); }
+  .two { display: grid; grid-template-columns: 1.15fr 1fr; gap: 4mm; }
+  .panel { background: var(--panel); border-radius: 3mm; padding: 3mm 3.4mm; }
+  table { width: 100%; border-collapse: collapse; font-size: 8.6pt; }
+  td { border-bottom: 1px solid var(--line); padding: 1mm 1.5mm; vertical-align: top; }
+  td:first-child { font-weight: 700; white-space: nowrap; width: 22mm; }
+  ol { margin: 0; padding-left: 4.4mm; }
+  ol li { margin: 0.8mm 0; }
+  .tracker { display: grid; grid-template-columns: repeat(30, 1fr); gap: 0.9mm; }
+  .tracker div { aspect-ratio: 1; border: 1px solid #c9ced8; border-radius: 0.6mm; font-size: 5.6pt; color: #9aa1ad; display: flex; align-items: center; justify-content: center; }
+  .tracker div.m { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+  .tracker-note { color: var(--muted); font-size: 8.2pt; margin-top: 1.2mm; }
+  footer { margin-top: auto; color: var(--muted); font-size: 7.8pt; border-top: 1px solid var(--line); padding-top: 2mm; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div>
+      <h1>Your First 90 Days <span>Checklist</span></h1>
+      <div class="sub">A beginner's start for UPSC CSE. Works for APPSC &amp; TGPSC Group 1 too. Tick as you go.</div>
+    </div>
+    <div class="brand">Decode UPSC<small>with Mounika</small></div>
+  </header>
+
+  <div class="dates">
+    <div class="field"><b>Day 1</b>Date:</div>
+    <div class="field"><b>Day 30</b>Date:</div>
+    <div class="field"><b>Day 60</b>Date:</div>
+    <div class="field"><b>Day 90</b>Date:</div>
+  </div>
+
+  <div>
+    <h2>Three rules before you start</h2>
+    <div class="rules">
+      <div class="rule"><b>One source per subject</b>Not three. Add later; never confuse yourself early.</div>
+      <div class="rule"><b>Consistency beats hours</b>Full-time: ~6 focused hrs. Working: 2–3 hrs weekdays, more on weekends.</div>
+      <div class="rule"><b>The syllabus is your boss</b>Keep the one-page syllabus map on your desk. Check every topic against it.</div>
+    </div>
+  </div>
+
+  <div class="phases">
+    <div class="phase">
+      <span class="days">DAYS 1–30</span>
+      <h3>Foundation</h3>
+      <div class="goal">Understand the exam, build the reading habit, lay the NCERT base.</div>
+      <ul class="check">
+        <li>Read the official CSE notification</li>
+        <li>Print the syllabus; keep it on your desk</li>
+        <li>Look through last year's Prelims paper</li>
+        <li>NCERT History: Class 6–8 Social Science</li>
+        <li>NCERT Class 12 <i>Themes in Indian History</i></li>
+        <li>NCERT Class 11 <i>Fundamentals of Physical Geography</i></li>
+        <li>NCERT Class 11 <i>Indian Constitution at Work</i></li>
+        <li>Newspaper, 45 min daily (The Hindu / Indian Express)</li>
+      </ul>
+      <div class="milestone"><b>Day 30 check:</b> syllabus read · 1 PYQ paper seen · 3+ NCERTs done · 30 days of newspaper</div>
+    </div>
+    <div class="phase">
+      <span class="days">DAYS 31–60</span>
+      <h3>One subject, deep</h3>
+      <div class="goal">Master Polity end to end: Prelims, GS II and every State PSC.</div>
+      <ul class="check">
+        <li>Read <i>Indian Polity</i> (M. Laxmikanth) chapter by chapter</li>
+        <li>One page of notes per chapter, in your own words</li>
+        <li>Solve that chapter's Prelims PYQs the same day</li>
+        <li>Start a current-affairs notebook: one line per story + syllabus tag</li>
+        <li>Saturday: revise the week's notes</li>
+        <li>Sunday: weekly CA roundup; fill notebook gaps</li>
+        <li>Newspaper, 45 min daily</li>
+      </ul>
+      <div class="milestone"><b>Day 60 check:</b> Polity done once · notes for every chapter · chapter-wise PYQs done</div>
+    </div>
+    <div class="phase">
+      <span class="days">DAYS 61–90</span>
+      <h3>Add &amp; write</h3>
+      <div class="goal">Start a second subject and begin answer writing.</div>
+      <ul class="check">
+        <li>Choose ONE: Economy (NCERT Class 11 &amp; 12) or Modern History</li>
+        <li>Revise Polity a second time</li>
+        <li>1 Mains answer a day: 150 words, 7 minutes, by hand</li>
+        <li>Structure: intro → points → conclusion</li>
+        <li>Take 1 sectional Prelims test on Polity</li>
+        <li>Analyse every wrong answer: why was it wrong?</li>
+        <li>Newspaper, 45 min daily</li>
+      </ul>
+      <div class="milestone"><b>Day 90 check:</b> Polity revised twice · 2nd subject half done · 30 answers written · 1 test analysed</div>
+    </div>
+  </div>
+
+  <div class="two">
+    <div class="panel">
+      <h2>Your weekly rhythm</h2>
+      <table>
+        <tr><td>Mon–Fri</td><td>Phase study + newspaper (45 min) + from Day 61, one answer</td></tr>
+        <tr><td>Saturday</td><td>Revise everything from this week. No new topics.</td></tr>
+        <tr><td>Sunday</td><td>Weekly current affairs roundup · update CA notebook · plan next week</td></tr>
+        <tr><td>+ Group 1</td><td>One evening a week on your state: history, culture, economy, schemes</td></tr>
+      </table>
+    </div>
+    <div class="panel">
+      <h2>Five mistakes to avoid</h2>
+      <ol>
+        <li>Collecting resources instead of reading them</li>
+        <li>Choosing your optional in week one; wait 3+ months</li>
+        <li>Watching videos without writing anything down</li>
+        <li>Comparing your Day 20 with someone's Year 2</li>
+        <li>Skipping revision: read once, forget in a month</li>
+      </ol>
+    </div>
+  </div>
+
+  <div>
+    <h2>90-day streak tracker</h2>
+    <div class="tracker">
+      <!-- 90 boxes, milestones at 30/60/90 -->
+      <div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div><div>11</div><div>12</div><div>13</div><div>14</div><div>15</div><div>16</div><div>17</div><div>18</div><div>19</div><div>20</div><div>21</div><div>22</div><div>23</div><div>24</div><div>25</div><div>26</div><div>27</div><div>28</div><div>29</div><div class="m">30</div>
+      <div>31</div><div>32</div><div>33</div><div>34</div><div>35</div><div>36</div><div>37</div><div>38</div><div>39</div><div>40</div><div>41</div><div>42</div><div>43</div><div>44</div><div>45</div><div>46</div><div>47</div><div>48</div><div>49</div><div>50</div><div>51</div><div>52</div><div>53</div><div>54</div><div>55</div><div>56</div><div>57</div><div>58</div><div>59</div><div class="m">60</div>
+      <div>61</div><div>62</div><div>63</div><div>64</div><div>65</div><div>66</div><div>67</div><div>68</div><div>69</div><div>70</div><div>71</div><div>72</div><div>73</div><div>74</div><div>75</div><div>76</div><div>77</div><div>78</div><div>79</div><div>80</div><div>81</div><div>82</div><div>83</div><div>84</div><div>85</div><div>86</div><div>87</div><div>88</div><div>89</div><div class="m">90</div>
+    </div>
+    <div class="tracker-note">Shade a box on every day you did your study block <b>and</b> read the newspaper. Missed a day? Don't break twice in a row.</div>
+  </div>
+
+  <footer>
+    <span>From the video "How to Start UPSC Preparation: Your First 90 Days Plan". A mentor's plan, not official guidance. Syllabus: upsc.gov.in</span>
+    <span>Nov 2026</span>
+  </footer>
+</div>
+</body>
+</html>

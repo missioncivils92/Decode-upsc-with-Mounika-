@@ -10,7 +10,7 @@ publish_date: 2026-11-10
 
 > VERIFY before recording:
 > - Book names are current editions (NCERTs from ncert.nic.in; Laxmikanth's "Indian Polity").
-> - Make the 90-day checklist PDF (Day 30/60/90 milestones from section 6) and link it in the description, or remove that line.
+> - The 90-day checklist PDF is at `assets/90-day-checklist/upsc-first-90-days-checklist.pdf` (source: `90-day-checklist.html`). Upload it and put the link in the description.
 
 ## Hook
 [On screen: "Day 1. 10 tabs open. 5 Telegram groups. 0 pages read."]
