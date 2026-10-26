@@ -11,7 +11,7 @@ publish_date: 2026-11-05
 > VERIFY before recording:
 > - Syllabus wording quoted on screen matches the latest CSE notification (upsc.gov.in), Appendix I.
 > - TGPSC Group 1 Mains paper list matches the latest TGPSC notification (last confirmed: Notification 02/2024).
-> - Make the one-page PDF ("UPSC syllabus map") before publishing and link it in the description.
+> - The one-page PDF is at `assets/syllabus-map/upsc-syllabus-on-one-page.pdf` (source: `syllabus-map.html`). Upload it (Drive/Telegram) and put the link in the description.
 
 ## Hook
 [On screen: the UPSC notification PDF, scrolling through the syllabus pages]
