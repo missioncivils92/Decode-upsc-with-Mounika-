@@ -10,6 +10,12 @@ The content workspace for **Decode UPSC with Mounika**, an English-language YouT
 ## The channel in one paragraph
 Mounika is a **mentor/educator** teaching **beginner aspirants (0–1 year into prep)** for **UPSC CSE (IAS/IPS/IFS)** and **State PSCs, with priority to APPSC and TGPSC** (Group 1/2), while keeping content useful to any state PSC. Videos are in **English**. Publishing cadence is **3 long videos per week: 2 explainers/exam guides + 1 weekly current-affairs roundup**, plus Shorts cut from them. The promise: _decode the exam into a clear, calm, step-by-step path._
 
+## Mounika's credentials (the only claims scripts may make)
+- Has written **UPSC CSE Mains twice**.
+- **9 years of teaching experience**: 4 years in academics, 5 years mentoring **UPSC and TGPSC aspirants**.
+
+Use these for credibility ("I've written Mains twice, so I know how that hall feels"). Never claim an interview call, a final selection, a rank or a service. Her Mains experience is a strength: she knows the exam from inside and from the teaching side.
+
 ## Audience: write for this person
 A 20–24 year old graduate, often from a Tier-2/3 town, often first-generation, watching on a phone. Overwhelmed by too many sources. Wants to know what to do next, not everything at once. May be preparing for UPSC and APPSC/TGPSC together.
 
@@ -70,4 +76,4 @@ Then sections: `Hook`, `Script` (with on-screen text cues in `[brackets]`), `Sho
 - Don't write daily current-affairs videos unless asked; the default is the weekly roundup.
 - Don't copy text from coaching material or newspapers; summarise and cite.
 - Don't use Hindi or Telugu in titles or scripts unless asked (a term with English explanation is fine).
-- Don't claim Mounika has a rank, selection or credential that hasn't been stated in this repo.
+- Don't claim Mounika has a rank, selection or credential beyond those listed under "Mounika's credentials".

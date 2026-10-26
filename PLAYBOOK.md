@@ -13,7 +13,7 @@ _Strategy, formats and templates for the channel. Facts and sources live in `RES
 | Exams | UPSC CSE (IAS/IPS/IFS) + State PSCs, priority APPSC & TGPSC, useful for any state |
 | Audience | Beginners, 0–1 year into preparation |
 | Language | English |
-| Mounika's role | Mentor / educator |
+| Mounika's role | Mentor / educator: has written UPSC Mains twice; 9 years teaching (4 in academics, 5 mentoring UPSC & TGPSC aspirants) |
 | Cadence | 3 long videos per week (2 explainers/exam guides + 1 weekly CA roundup) + Shorts cut from them |
 | Business goal | Not decided yet; build audience and trust first (see §9) |
 
@@ -165,7 +165,6 @@ No business model is chosen yet. Build trust first, then pick one when the audie
 
 ## 10. Open questions
 
-- Mounika's background and credentials to state on-channel (prelims/mains/interview experience, teaching experience).
 - Business model (see §9).
 - Whether to add a Telugu-medium explainer series later for Group 1/2 aspirants.
 - Brand colours, intro/outro, recording setup.
