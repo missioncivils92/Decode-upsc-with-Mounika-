@@ -14,7 +14,7 @@ _Strategy, formats and templates for the channel. Facts and sources live in `RES
 | Audience | Beginners, 0–1 year into preparation |
 | Language | English |
 | Mounika's role | Mentor / educator |
-| Cadence | 1–2 long videos per week + Shorts cut from them |
+| Cadence | 3 long videos per week (2 explainers/exam guides + 1 weekly CA roundup) + Shorts cut from them |
 | Business goal | Not decided yet; build audience and trust first (see §9) |
 
 **Why this can win:** big channels compete on volume (daily news, long lectures). Beginners are drowning in that volume. This channel competes on **clarity, sequence and trust**, and on the **UPSC + APPSC/TGPSC bridge** that national channels ignore.
@@ -25,28 +25,31 @@ _Strategy, formats and templates for the channel. Facts and sources live in `RES
 
 | # | Pillar | What it is | Share of long videos |
 |---|---|---|---|
-| 1 | **Decode the Exam** | Pattern, syllabus, eligibility, booklists, how to start, UPSC vs Group 1, how to read the newspaper, how to make notes | ~30% |
-| 2 | **Decode the Syllabus** | Topic explainers (Polity, Economy, History, Geography, Environment, S&T, Ethics) built with the Decode Method | ~45% |
-| 3 | **Weekly Current Affairs Decoded** | The week's 6–8 exam-relevant stories, linked to syllabus | ~25% (most weeks the 2nd video) |
+| 1 | **Decode the Exam** | Pattern, syllabus, eligibility, booklists, how to start, UPSC vs Group 1, how to read the newspaper, how to make notes | ~25% |
+| 2 | **Decode the Syllabus** | Topic explainers (Polity, Economy, History, Geography, Environment, S&T, Ethics) built with the Decode Method | ~42% |
+| 3 | **Weekly Current Affairs Decoded** | The week's 6–8 exam-relevant stories, linked to syllabus | ~33% (1 every week) |
 | — | **Shorts** | 3–5 per week, cut from the long videos | Every week |
 
-Daily current affairs is **not** sustainable at 1–2 videos/week. The weekly roundup replaces it. Revisit if cadence rises.
+Daily current affairs is replaced by **one weekly roundup**, published every Sunday.
 
 ---
 
-## 3. Weekly rhythm (1–2 videos)
+## 3. Weekly rhythm (3 videos)
+
+Work one video ahead: Video A for next week is scripted on Friday.
 
 | Day | Task |
 |---|---|
-| Mon | Pick topic from calendar; research and verify facts |
-| Tue | Write script (Claude drafts; Mounika edits in her voice) |
-| Wed | Record explainer; design thumbnail |
-| Thu | **Publish explainer** (5–7 pm IST); post 1 Short |
-| Fri–Sat | Collect week's news; script and record CA roundup |
-| Sun | **Publish weekly CA roundup** (morning); post 1 Short |
-| Daily | 1 Short on non-publish days if available; reply to comments in the first 2 hours after publishing |
+| Mon | Record Video A (scripted last Fri); thumbnail; research Video B |
+| Tue | **Publish Video A** (6 pm IST); script Video B (Claude drafts; Mounika edits in her voice) |
+| Wed | Record Video B; thumbnail; post 1 Short |
+| Thu | **Publish Video B** (6 pm IST) |
+| Fri | Script next week's Video A; shortlist the week's 6–8 news stories |
+| Sat | Script and record the CA roundup; post 1 Short |
+| Sun | **Publish weekly CA roundup** (9 am IST); post 1 Short |
+| Daily | Log exam-relevant news in `current-affairs/` as it happens; reply to comments in the first 2 hours after publishing |
 
-Light week (1 video): alternate explainer and CA roundup, keep Shorts going.
+Busy week: keep the Sunday roundup and one explainer; skip Video B rather than rush it.
 
 ---
 
@@ -112,22 +115,22 @@ Avoid: "Crack UPSC in X days", "100% guaranteed", ALL CAPS, misleading claims.
 
 ## 7. Starter calendar (Nov 2026 – Jan 2027)
 
-Aligned to the CSE 2027 notification (13 Jan 2027) and beginners starting for 2027/2028. Verify every date before publishing.
+Aligned to the CSE 2027 notification (13 Jan 2027) and beginners starting for 2027/2028. Week 1 starts Mon 2 Nov 2026. Every Sunday is the weekly CA roundup. Verify every date before publishing.
 
-| Week | Explainer / Exam guide | Weekly slot |
+| Week | Video A (Tue) | Video B (Thu) |
 |---|---|---|
-| 1 | UPSC CSE explained from zero: stages, papers, marks | CA roundup |
-| 2 | How to start UPSC preparation: first 90 days plan | CA roundup |
-| 3 | UPSC vs APPSC/TGPSC Group 1: overlap and how to prepare both | CA roundup |
-| 4 | NCERTs: which ones, in what order | CA roundup |
-| 5 | How to read the newspaper for UPSC (in 1 hour) | CA roundup |
-| 6 | Polity: Preamble decoded | CA roundup |
-| 7 | Polity: Fundamental Rights | CA roundup |
-| 8 | Year-end: 2026 in review, 10 issues every aspirant must know | (one video week) |
-| 9 | Should a beginner attempt CSE 2027 or wait for 2028? (honest guide) | CA roundup |
-| 10 | Eligibility, age and attempts, including the 2026 rule changes | CA roundup |
-| 11 | **Notification week:** CSE 2027 notification decoded | How to fill the UPSC form without mistakes |
-| 12 | CSAT for beginners: how not to fail the qualifying paper | CA roundup |
+| 1 (2 Nov) | UPSC CSE explained from zero: stages, papers, marks | UPSC syllabus decoded: Prelims & Mains on one page |
+| 2 (9 Nov) | How to start UPSC preparation: first 90 days plan | UPSC vs APPSC/TGPSC Group 1: overlap and how to prepare both |
+| 3 (16 Nov) | NCERTs: which ones, in what order | Booklist for beginners: only what you need |
+| 4 (23 Nov) | How to read the newspaper for UPSC (in 1 hour) | How to make notes, and actually revise them |
+| 5 (30 Nov) | Polity: Preamble decoded | Polity: Fundamental Rights |
+| 6 (7 Dec) | Polity: DPSP and Fundamental Duties | How to use PYQs from day one |
+| 7 (14 Dec) | Polity: Parliament basics | APPSC & TGPSC Group 1 pattern decoded (check latest notifications) |
+| 8 (21 Dec) | 2026 in review: 10 issues every aspirant must know | Polity: Federalism and Centre–State relations (AP Reorganisation Act angle) |
+| 9 (28 Dec) | Should a beginner attempt CSE 2027 or wait for 2028? (honest guide) | Economy basics: GDP, inflation, fiscal deficit |
+| 10 (4 Jan) | Eligibility, age and attempts, including the 2026 rule changes | Economy: how to read the Union Budget (ahead of 1 Feb) |
+| 11 (11 Jan) | **Notification week:** CSE 2027 notification decoded (publish 13–14 Jan) | How to fill the UPSC form without mistakes |
+| 12 (18 Jan) | CSAT for beginners: how not to fail the qualifying paper | Modern History: where to start |
 
 Then rotate Pillar 2 topics by syllabus (Polity → Economy → Modern History → Geography → Environment → S&T), and use the annual rhythm in `RESEARCH.md` §2.5 for event videos (Prelims answer key, results, toppers' strategy).
 

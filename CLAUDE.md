@@ -8,7 +8,7 @@ The content workspace for **Decode UPSC with Mounika**, an English-language YouT
 - `RESEARCH.md`: exam facts, audience research and sources.
 
 ## The channel in one paragraph
-Mounika is a **mentor/educator** teaching **beginner aspirants (0–1 year into prep)** for **UPSC CSE (IAS/IPS/IFS)** and **State PSCs, with priority to APPSC and TGPSC** (Group 1/2), while keeping content useful to any state PSC. Videos are in **English**. Publishing cadence is **1–2 long videos per week** plus Shorts cut from them. The promise: _decode the exam into a clear, calm, step-by-step path._
+Mounika is a **mentor/educator** teaching **beginner aspirants (0–1 year into prep)** for **UPSC CSE (IAS/IPS/IFS)** and **State PSCs, with priority to APPSC and TGPSC** (Group 1/2), while keeping content useful to any state PSC. Videos are in **English**. Publishing cadence is **3 long videos per week: 2 explainers/exam guides + 1 weekly current-affairs roundup**, plus Shorts cut from them. The promise: _decode the exam into a clear, calm, step-by-step path._
 
 ## Audience: write for this person
 A 20–24 year old graduate, often from a Tier-2/3 town, often first-generation, watching on a phone. Overwhelmed by too many sources. Wants to know what to do next, not everything at once. May be preparing for UPSC and APPSC/TGPSC together.
